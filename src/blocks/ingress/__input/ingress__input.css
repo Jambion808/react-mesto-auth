@@ -1,0 +1,16 @@
+.ingress__input{
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    border: none;
+    color: #fff;
+    background-color: #000000;
+    border-bottom: 2px solid #CCCCCC;
+    padding: 0 auto;
+    padding-bottom: 13px;
+    margin-bottom: 30px;
+}
+
+.ingress__input:last-of-type{
+    margin-bottom: 216px;
+}

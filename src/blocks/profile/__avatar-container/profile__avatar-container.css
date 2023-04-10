@@ -1,0 +1,13 @@
+.profile__avatar-container {
+    border-radius: 50%;
+    width: 122px;
+    height: 122px;
+    margin: 0;
+    margin-right: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile__avatar-container:hover .profile__avatar-button::before{
+    display: flex;
+}
